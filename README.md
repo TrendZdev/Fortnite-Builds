@@ -311,3 +311,25 @@ Credits: [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Bu
 | 31.20-CL-35998005     | N/A    | N/A              | https://builds.fn-builds.net/31.20-CL-35998005.7z |
 | 31.30-CL-36348296     | N/A    | N/A              | https://builds.fn-builds.net/31.30-CL-36348296.7z |
 | 31.40-CL-36708587     | N/A    | N/A              | https://builds.fn-builds.net/31.40-CL-36708587.7z |
+
+# Season 32
+| Build                     | Date      | Engine Version | Download links                                  |
+| ------------------------- | --------- | -------------- | ----------------------------------------------- |
+| 32.00-CL-37505882         | N/A       | N/A            | https://builds.fn-builds.net/32.00-CL-37505882.7z |
+| 32.11-CL-38202817         | N/A       | N/A            | https://builds.fn-builds.net/32.11-CL-38202817.7z |
+
+# Season 33
+| Build                     | Date      | Engine Version | Download links                                  |
+| ------------------------- | --------- | -------------- | ----------------------------------------------- |
+| 33.10-CL-38630093         | N/A       | N/A            | https://builds.fn-builds.net/33.10-CL-38630093.7z |
+| 33.11-CL-38773622         | N/A       | N/A            | https://builds.fn-builds.net/33.11-CL-38773622.7z |
+| 33.20-CL-39082670         | N/A       | N/A            | https://builds.fn-builds.net/33.20-CL-39082670.7z |
+| 33.30-CL-39435251         | N/A       | N/A            | https://builds.fn-builds.net/33.30-CL-39435251.7z |
+
+# Season 34
+| Build                     | Date    | Engine Version | Download links                                  |
+| ------------------------- | ------- | -------------- | ----------------------------------------------- |
+| 34.00-CL-40085084         | N/A     | N/A            | https://builds.fn-builds.net/34.00-CL-40085084.7z |
+| 34.10-CL-40567068         | N/A     | N/A            | https://builds.fn-builds.net/34.10-CL-40567068.7z |
+| 34.20-CL-40965447         | N/A     | N/A            | https://builds.fn-builds.net/34.20-CL-40965447.7z |
+| 34.30-CL-41387772         | N/A     | N/A            | https://builds.fn-builds.net/34.30-CL-41387772.7z |
